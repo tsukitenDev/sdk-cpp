@@ -1,7 +1,7 @@
 #pragma once
 
 #ifdef ARDUINO
-#include <Arduino.h>
+//#include <Arduino.h>
 #endif  // ARDUINO
 
 #include <cstdint>
