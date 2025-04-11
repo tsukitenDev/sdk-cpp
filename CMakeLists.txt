@@ -6,7 +6,7 @@ if(ESP_PLATFORM)
       SRCS "src/improv.cpp"
       INCLUDE_DIRS "src"
       # TODO: It would be nice to have this conditional only if arduino is already used as a component
-      REQUIRES arduino
+      # REQUIRES arduino
    )
    return()
 endif()
